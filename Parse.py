@@ -35,9 +35,7 @@ def scrapeReg(courseNumber):
 
 def main():
     #MySQL Connection Info
-    mySQLPass = "FeQvtrexWYx6LFUC"
-    mySQLHost = "db.csh.rit.edu"
-    mySQLUser = "zemon1"
+    #pass info
     mySQLDatabase = "picat"
     #Tables
     mySQLTimes = "timeclassrel"
